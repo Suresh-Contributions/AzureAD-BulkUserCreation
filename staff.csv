@@ -1,0 +1,4 @@
+UPN,FirstName,LastName,Title,UsageLocation,Department,AlternateEmailAddress,MobilePhone,AuthenticationPhone
+user1@azureonline.contoso.com,John,Doe,Engineer,US,IT,johndoe@domain.com,123456789,987654321
+user2@azureonline.contoso.com,Jane,Smith,Manager,UK,HR,janesmith@domain.com,987654321,123456789
+user3@azureonline.contoso.com,Alice,Johnson,Analyst,CA,Finance,alicejohnson@domain.com,555111222,999888777
