@@ -29,7 +29,4 @@ Note: Ensure that your CSV file follows the specified format with columns like U
 Disclaimer
 This script is provided as-is without any guarantees or warranty. Use it at your own risk.
 
-Contributing
-Feel free to contribute by opening issues or submitting pull requests.
-
 Happy scripting!
