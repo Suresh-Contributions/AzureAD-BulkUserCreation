@@ -27,6 +27,6 @@ Automate the bulk creation of users in Azure Active Directory using Bash and Azu
 Note: Ensure that your CSV file follows the specified format with columns like UPN, FirstName, LastName, etc. The script will process the data from the CSV file to create users in Azure AD.
 
 Disclaimer
-This script is provided as-is without any guarantees or warranty. Use it at your own risk.
+This script is provided as-is without any guarantees or warranty.
 
 Happy scripting!
